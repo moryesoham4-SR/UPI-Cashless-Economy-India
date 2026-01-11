@@ -2,6 +2,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/moryesoham4-SR/UPI-Cashless-Economy-India?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/moryesoham4-SR/UPI-Cashless-Economy-India?style=social)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/moryesoham4-SR/UPI-Cashless-Economy-India)
+![License](https://img.shields.io/github/license/moryesoham4-SR/UPI-Cashless-Economy-India)
 
 
 
