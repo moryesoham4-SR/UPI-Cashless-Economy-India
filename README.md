@@ -1,3 +1,11 @@
+![GitHub Repo Size](https://img.shields.io/github/repo-size/moryesoham4-SR/UPI-Cashless-Economy-India)
+![GitHub Stars](https://img.shields.io/github/stars/moryesoham4-SR/UPI-Cashless-Economy-India?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/moryesoham4-SR/UPI-Cashless-Economy-India?style=social)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/moryesoham4-SR/UPI-Cashless-Economy-India)
+
+
+
+
 # UPI-Cashless-Economy-India
 Survey based analysis of UPI adoption and Cashless Economy in India
 I can generate a **high-quality README** for you right now 👍
