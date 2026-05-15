@@ -26,7 +26,8 @@ Grishma Patil B.Sc. Data Science,
 Pradnya Ughade B.Sc. Data Science,
 Khushi Mishra B.Sc Data Science,
 Rehan Khan B.Sc. Data Science,
-    Soham Morye B.Sc. Data Science (Project Head).
+Mukund Mandaviya B.Sc. Data Science,
+Soham Morye B.Sc. Data Science (Project Head).
 
 ---
 
