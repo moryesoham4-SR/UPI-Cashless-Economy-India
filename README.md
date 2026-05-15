@@ -20,6 +20,13 @@ This project studies the **adoption of UPI (Unified Payments Interface)** and th
 The goal is to understand how people use UPI, what benefits they experience, and what challenges still exist.
 
 This is a **data-driven academic project** designed to reflect real-world digital payment trends in India.
+Group Project Member Include
+
+Grishma Patil B.Sc. Data Science
+Pradnya Ughade B.Sc. Data Science
+Khushi Mishra B.Sc Data Science
+Rehan Khan B.Sc. Data Science
+Soham Morye B.Sc. Data Science (Project Head)
 
 ---
 
